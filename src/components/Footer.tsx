@@ -29,13 +29,13 @@ const Footer: React.FC = () => {
           </a>
           <a
             className="flex justify-center items-center text-gray-400"
-            href="www.linkedin.com/in/aditya7483"
+            href="https://www.linkedin.com/in/aditya7483"
           >
             Twitter
           </a>
           <a
             className=" flex justify-center items-center text-gray-400"
-            href="www.linkedin.com/in/aditya7483"
+            href="https://www.linkedin.com/in/aditya7483"
           >
             LinkedIn
           </a>
